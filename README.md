@@ -5,7 +5,7 @@ An exploratory data analysis of global education enrollment trends using World B
 ## Key Findings
 
 - Low-income countries have made significant progress in **primary school enrollment** since 2000
-- However, a large **primary-to-secondary drop-off** persists — the most critical gap remaining
+- However, a large **primary-to-secondary drop-off** persists, the most critical gap remaining
 - **Sub-Saharan Africa and South Asia** consistently show the lowest enrollment rates across both levels
 - The data suggests policy focus should shift from access to primary education → **retention through secondary level**
 
